@@ -1,6 +1,10 @@
 # Hey! I'm Meghana!
 
+---
+
 ## 🚀 My Projects:
+
+---
 
 📋 **Data Analysis Project**  
 - [LA-Checkbook-Insights](https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights)  
