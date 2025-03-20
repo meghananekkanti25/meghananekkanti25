@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hey! I'm Meghana!
+
+### 🚀 My Projects:
+
+📋 **LA-Checkbook-Insights**  
+- [https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights](https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights)  
+
+
+
