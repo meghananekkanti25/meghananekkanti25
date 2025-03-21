@@ -1,6 +1,6 @@
 # Hey! I'm Meghana!
 
-## 🚀 My Projects:
+## 🚀 Projects:
 
  
 
