@@ -21,63 +21,38 @@
 
 ## 🏆 Certifications
 
+**Data Science & Analytics**
 - [Google Analytics Certification](https://skillshop.credential.net/a07dec93-d9f1-4652-a2eb-c7e21f844501#acc.1F8Yvox7)
 - [NIIT Certified Data Science](https://github.com/user-attachments/files/19391935/NIIT.Course.cert.pdf)
+- [Applied Plotting, Charting & Data Representation in Python](https://coursera.org/share/41b670d656a4bbc904767dccc7f80fc7)
+- [Introduction to Data Science in Python](https://coursera.org/share/96b8aa0ede8cc9907675ccb64536e9ed)
+- [Predictive Analytics for Business with H2O in R](https://coursera.org/share/31e72df0fde2815621b460fd6f30dd5c)
+- [Big data and Language 1](https://coursera.org/share/6046e62fd24c0dad188e797493ae3333)
+- [Build a Deep Learning Based Image Classifier with R](https://coursera.org/share/60523c8d7fb4142b556463bf5b3cf028)
+- [Social Media Data Analytics](https://coursera.org/share/a7e2b4324d9afe7ad6fd920121228c00)
+- [Analysis for Business Systems](https://coursera.org/share/6df6aaa84f3df122e605bb3358cde838)
+- [Machine Learning for All](https://coursera.org/share/34ab4f2f30c51d3389925b878294f727)
 
-- ## Certifications
+**Business & Marketing**
+- [Operations Management: Organization and Analysis](https://coursera.org/share/c24b16f47f2a52698dda8976adc1bff2a)
+- [Marketing Mix Fundamentals](https://coursera.org/share/dec132dcefef18cfe39faf14fb164b5f)
+- [The Marketing Plan](https://coursera.org/share/71acde382ac8536f8e913ff87c97fdfb)
+- [Positioning: What you need for a successful Marketing Strategy](https://coursera.org/share/e9474753be4864f414d06da6b9bfa6f8)
+- [Market Research and Consumer Behavior](https://coursera.org/share/31efdc548ce458effd624cdd2df04909)
 
-<div style="display: flex; justify-content: space-between;">
+**Supply Chain & Analytics**
+- [Supply Chain Analytics Essentials](https://coursera.org/share/2e85b7322e9e0bc445dce3cfdd82ef85)
+- [Hadoop Platform and Application Framework](https://coursera.org/share/48bb7eecd678cfcdb9cdf9e4ee1b47b3)
+- [Six Sigma Principles](https://coursera.org/share/3df9ec65caee63275c2b1ac0d91a0e8c)
 
-  <div style="width: 48%; padding: 10px; border: 2px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-    <h3>Data Science & Analytics</h3>
-    <ul>
-      <li><a href="https://coursera.org/share/41b670d656a4bbc904767dccc7f80fc7">Applied Plotting, Charting & Data Representation in Python</a></li>
-      <li><a href="https://coursera.org/share/96b8aa0ede8cc9907675ccb64536e9ed">Introduction to Data Science in Python</a></li>
-      <li><a href="https://coursera.org/share/ef2afb405732523d208a1a3c69b31eb7">Analyze Stock Data using R and Quantmod Package</a></li>
-      <li><a href="https://coursera.org/share/31e72df0fde2815621b460fd6f30dd5c">Predictive Analytics for Business with H2O in R</a></li>
-      <li><a href="https://coursera.org/share/6046e62fd24c0dad188e797493ae3333">Big data and Language 1</a></li>
-      <li><a href="https://coursera.org/share/60523c8d7fb4142b556463bf5b3cf028">Build a Deep Learning Based Image Classifier with R</a></li>
-      <li><a href="https://coursera.org/share/a7e2b4324d9afe7ad6fd920121228c00">Social Media Data Analytics</a></li>
-    </ul>
-  </div>
+**Programming & Development**
+- [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/27fe56d95d28b95ad184e6fc42ae9234)
+- [HTML and CSS: Building a Single-Page Website](https://coursera.org/share/7de43b00e94c8f28e978e9225313de14)
+- [Custom Reports in Google Analytics](https://coursera.org/share/d07d9aa90c979ec6bba7168a721daa3d)
 
-  <div style="width: 48%; padding: 10px; border: 2px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-    <h3>Business & Operations</h3>
-    <ul>
-      <li><a href="https://coursera.org/share/c24b16f47f2a52698dda8976adc1bff2a">Operations Management: Organization and Analysis</a></li>
-      <li><a href="https://coursera.org/share/dec132dcefef18cfe39faf14fb164b5f">Marketing Mix Fundamentals</a></li>
-      <li><a href="https://coursera.org/share/71acde382ac8536f8e913ff87c97fdfb">The Marketing Plan</a></li>
-      <li><a href="https://coursera.org/share/e9474753be4864f414d06da6b9bfa6f8">Positioning: What you need for a successful Marketing Strategy</a></li>
-      <li><a href="https://coursera.org/share/31efdc548ce458effd624cdd2df04909">Market Research and Consumer Behavior</a></li>
-      <li><a href="https://coursera.org/share/2e85b7322e9e0bc445dce3cfdd82ef85">Supply Chain Analytics Essentials</a></li>
-      <li><a href="https://coursera.org/share/48bb7eecd678cfcdb9cdf9e4ee1b47b3">Hadoop Platform and Application Framework</a></li>
-    </ul>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between; margin-top: 20px;">
-
-  <div style="width: 48%; padding: 10px; border: 2px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-    <h3>Programming & Development</h3>
-    <ul>
-      <li><a href="https://coursera.org/share/27fe56d95d28b95ad184e6fc42ae9234">Programming for Everybody (Getting Started with Python)</a></li>
-      <li><a href="https://coursera.org/share/7de43b00e94c8f28e978e9225313de14">HTML and CSS: Building a Single-Page Website</a></li>
-      <li><a href="https://coursera.org/share/d07d9aa90c979ec6bba7168a721daa3d">Custom Reports in Google Analytics</a></li>
-    </ul>
-  </div>
-
-  <div style="width: 48%; padding: 10px; border: 2px solid #ccc; border-radius: 8px; background-color: #f9f9f9;">
-    <h3>Language & Operations</h3>
-    <ul>
-      <li><a href="https://coursera.org/share/c477c4f244d5d8fb6675fd3ba4116f3a">Intro to Scheduling with When I Work</a></li>
-      <li><a href="https://coursera.org/share/28b7563d1c81e8262ddd06dfd23add91">Learn to Speak Korean 1</a></li>
-      <li><a href="https://coursera.org/share/6df2abd805dd38300d53df33deff6869">First Step Korean</a></li>
-    </ul>
-  </div>
-
-</div>
-
+**Data Visualization**
+- [Data Visualization and Communication with Tableau](https://coursera.org/share/8ff51936c3c2bf5317e156a271f87f2a)
+- [Tableau Public for Project Management and Beyond](https://coursera.org/share/d19c0ac462446ea4761d0bbbc3a0fce9)
 
 
 ## 📄 Resume
