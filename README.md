@@ -15,6 +15,9 @@
 🖥️ **Fairness & Bias Evaluation Project**  
 - [Measuring-Fairness-in-LLMs](https://github.com/meghananekkanti25/Measuring-Fairness-in-LLMs)
 
+🏙️ **Geospatial Analysis Project**
+- [SF-Crime-Patterns](https://github.com/meghananekkanti25/SF-Crime-Patterns)
+
 
 ## 🏆 Certifications
 
