@@ -26,3 +26,8 @@
 ## 📄 Resume
 
 You can view my resume [here](https://drive.google.com/file/d/1tBozXoaf4rJca3ch2LYcN857k7EwdyyE/view?usp=sharing).
+
+
+## 📞 Contact Me:
+📧 [Email](mailto:meghananekkanti25@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/meghana-nekkanti/) 
