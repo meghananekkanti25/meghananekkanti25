@@ -2,7 +2,7 @@
 
 ✨ Data enthusiast with a knack for turning numbers into stories! 📈 Using R, Python, SQL, and Tableau, I uncover hidden trends, build predictive models, and deliver insights that help businesses level up. Whether it’s optimizing processes or solving tough problems, I’m all about finding the magic in the data. Ready to collaborate and make some data-driven magic happen! ✨
 
-## 🚀 Projects:
+## 🚀 Projects
 
  
 
