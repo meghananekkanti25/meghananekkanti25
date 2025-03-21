@@ -4,12 +4,10 @@
 
 ## 🚀 Projects
 
-| 📋 **Data Analysis Project** | ✈️ **Machine Learning Project** |
-| --------------------------- | ------------------------------- |
+| 📋 **Data Analysis Project**                                        | ✈️ **Machine Learning Project**                                         |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | [LA-Checkbook-Insights](https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights) | [Airline-Satisfaction-Insight](https://github.com/meghananekkanti25/Airline-Customer-Satisfaction) |
-
-| 🖥️ **Fairness & Bias Evaluation Project** | 🏙️ **Geospatial Analysis Project** |
-| ---------------------------------------- | ----------------------------------- |
+| 🖥️ **Fairness & Bias Evaluation Project**                           | 🏙️ **Geospatial Analysis Project**                                       |
 | [Measuring-Fairness-in-LLMs](https://github.com/meghananekkanti25/Measuring-Fairness-in-LLMs) | [SF-Crime-Patterns](https://github.com/meghananekkanti25/SF-Crime-Patterns) |
 
 
