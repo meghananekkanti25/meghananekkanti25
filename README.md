@@ -32,6 +32,7 @@
 
 
 
+
 ## 📄 Resume
 
 You can view my resume [here](https://drive.google.com/file/d/1tBozXoaf4rJca3ch2LYcN857k7EwdyyE/view?usp=sharing).
