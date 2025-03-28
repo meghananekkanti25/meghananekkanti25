@@ -16,6 +16,21 @@
 🏙️ **Geospatial Analysis Project**
 - [SF-Crime-Patterns](https://github.com/meghananekkanti25/SF-Crime-Patterns)
 
+  <p align="left">
+  <b>📋 Data Analysis Project</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>✈️ Machine Learning Project</b>
+</p>
+<p align="left">
+  <a href="https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights">LA-Checkbook-Insights</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/meghananekkanti25/Airline-Customer-Satisfaction">Airline-Satisfaction-Insight</a>
+</p>
+
+<p align="left">
+  <b>🖥️ Fairness & Bias Evaluation Project</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>🏙️ Geospatial Analysis Project</b>
+</p>
+<p align="left">
+  <a href="https://github.com/meghananekkanti25/Measuring-Fairness-in-LLMs">Measuring-Fairness-in-LLMs</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/meghananekkanti25/SF-Crime-Patterns">SF-Crime-Patterns</a>
+</p>
+
+
 
 ## 🏆 Certifications
 
