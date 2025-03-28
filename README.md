@@ -4,8 +4,8 @@
 
 ## 🚀 Projects
 
-📋 **Data Analysis Project**  
-- [LA-Checkbook-Insights](https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights)  
+📋 **Data Analysis Project**                                                     ✈️ **Machine Learning Project**                                                         
+- [LA-Checkbook-Insights](https://github.com/meghananekkanti25/LA-Checkbook-Insights?tab=readme-ov-file#-la-checkbook-insights)                                                     - [Airline-Satisfaction-Insight](https://github.com/meghananekkanti25/Airline-Customer-Satisfaction)                                            
 
 ✈️ **Machine Learning Project**  
 - [Airline-Satisfaction-Insight](https://github.com/meghananekkanti25/Airline-Customer-Satisfaction)  
